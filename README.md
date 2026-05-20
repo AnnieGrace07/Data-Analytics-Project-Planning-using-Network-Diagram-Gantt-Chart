@@ -119,11 +119,11 @@ A **Gantt Chart** was created using **Microsoft Project (MS Project)** to visual
 ## 📷 Visualizations
 
 ### Network Diagram
-![Network Diagram](<img width="973" height="528" alt="image" src="https://github.com/user-attachments/assets/b2343fc4-512a-44e6-911d-e4518c72ddda" />
+(<img width="973" height="528" alt="image" src="https://github.com/user-attachments/assets/b2343fc4-512a-44e6-911d-e4518c72ddda" />
 )
 
 ### Gantt Chart
-![Gantt Chart](<img width="885" height="471" alt="image" src="https://github.com/user-attachments/assets/48f91dd0-d74c-43c5-a867-4dcceae2836d" />
+(<img width="885" height="471" alt="image" src="https://github.com/user-attachments/assets/48f91dd0-d74c-43c5-a867-4dcceae2836d" />
 )
 
 ---
